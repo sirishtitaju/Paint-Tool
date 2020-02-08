@@ -1,0 +1,103 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #17191d;
+}
+
+.title {
+    position: absolute;
+    display: inline;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: smaller;
+    padding: 5px;
+    opacity: 0.4;
+    top: 2%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color: #c4c4c7;
+    filter: invert();
+}
+
+.title span {
+    font-size: medium;
+}
+
+/* .tools {
+    background-color: white;
+} */
+
+.toolbox {
+    user-select: none;
+    height: auto;
+    position: absolute;
+    width: auto;
+    background-color: #25252d;
+    z-index: 2;
+    /* filter: invert(); */
+}
+
+.toolbox .group {
+    border-bottom: thin solid rgb(63, 63, 63);
+}
+
+.toolbox .group .item {
+    width: 46px;
+    height: 43.5px;
+    padding: 13px;
+}
+
+.toolbox .group.linewidths .item {
+    position: relative;
+}
+
+.toolbox .group.linewidths .item .linewidth {
+    position: absolute;
+    background-color: rgb(255, 255, 255);
+    border-radius: 50%;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+
+}
+
+.toolbox .group .item img {
+    width: 100%;
+    filter: invert();
+}
+
+.toolbox .group .item:hover,
+.toolbox .group .item.active {
+    background-color: rgba(255, 0, 76, 0.74);
+}
+
+
+.toolbox.left {
+    left: 0px;
+    top: 0px;
+}
+
+.toolbox.right {
+    right: 0px;
+    top: 0px;
+}
+
+.toolbox .group.swatches .item .swatch {
+    width: 100%;
+    height: 100%;
+    border: 2px solid rgb(187, 186, 186);
+    box-sizing: border-box;
+}
+
+
+#canvas {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color: #a8a6a6;
+
+}
