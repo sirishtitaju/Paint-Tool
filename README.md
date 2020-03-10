@@ -13,3 +13,5 @@
 <img src="img/thumb4.png">
 <b>Paint, Brushes, Eraser</b><br><br>
 </p>
+
+### For Demo:<a href = "sirishtitaju.com.np/paint-app.html">Click Here </a>
