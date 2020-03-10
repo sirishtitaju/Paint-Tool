@@ -1,7 +1,5 @@
-# Paint-Tool
-
-<b>Paint Tool -  Html Canvas and JavaScript (Web-Based)<br><br>
-Snapshots:</b>
+## Paint Tool -  Html Canvas and JavaScript (Web-Based)<br>
+### Snapshots:
 <br>
 <p align="center">
 <img src="img/thumb1.png">
