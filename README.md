@@ -1,5 +1,6 @@
 ## Paint Tool -  Html Canvas and JavaScript (Web-Based)<br>
-### Snapshots:
+### Snapshots:<br>
+#### For Demo:<a href = "sirishtitaju.com.np/paint-app.html">Click Here </a>
 <br>
 <p align="center">
 <img src="img/thumb1.png">
@@ -14,4 +15,4 @@
 <b>Paint, Brushes, Eraser</b><br><br>
 </p>
 
-### For Demo:<a href = "sirishtitaju.com.np/paint-app.html">Click Here </a>
+
