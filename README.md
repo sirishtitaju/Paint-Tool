@@ -1,6 +1,6 @@
 ## Paint Tool -  Html Canvas and JavaScript (Web-Based)
 
-#### For Demo:<a href = "http://sirishtitaju.com.np/paint-app.html"> Click Here </a>
+##### For Demo:<a href = "http://sirishtitaju.com.np/paint-app.html"> Click Here </a>
 
 
 ### Snapshots:<br>
